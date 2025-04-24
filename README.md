@@ -1,5 +1,5 @@
 # My local AI
-# 🧠 How I Built My Own Local AI (And You Can Too!)
+# How I Built My Own Local AI (And You Can Too!)
 
 Artificial Intelligence is becoming part of our daily lives! From writing emails to planning meals, it's everywhere.  
 And what's cooler than having your own local AI running privately, securely, and for free on your computer?
@@ -14,7 +14,8 @@ From there, you can:
 It’s like having a superpowered assistant that knows all your stuff!
 
 
-Thanks to this awesome video by NetworkChuck, I was able to install my own AI assistant using **Ollama** and **Open WebUI**. It’s not complicated — all you need is a Linux machine (or WSL on Windows) with a GPU, and you’re good to go.
+Thanks to this awesome video by NetworkChuck, I was able to install my own AI assistant using **Ollama** and **Open WebUI**. 
+It’s not complicated all you need is a Linux machine (or WSL on Windows) with a GPU, and you’re good to go.
 
 ---
 
@@ -86,6 +87,10 @@ ollama list
 ---
 
 ## 🌐 Add a Web Interface with Open WebUI
+Ref:
+- [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
+- [https://docs.openwebui.com/](https://docs.openwebui.com/)
+
 To use your AI in a browser instead of the terminal, install **Open WebUI**.
 
 ⚠️ **You need Docker**
@@ -131,3 +136,5 @@ Click the dropdown on the right side of the search bar to switch models!
 - 🎯 **Customizable:** Choose models for creative writing, coding, research, and more.  
 - 🧠 **Offline:** Works even without an internet connection (after setup)!
 - 📝 **AI in your notes!:** upload your personal notes
+
+
