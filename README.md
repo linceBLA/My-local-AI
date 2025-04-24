@@ -1,4 +1,4 @@
-# My-local-AI
+# My local AI
 # 🧠 How I Built My Own Local AI (And You Can Too!)
 
 Artificial Intelligence is becoming part of our daily lives — from writing emails to planning meals, it's everywhere.  
