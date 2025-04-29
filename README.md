@@ -1,10 +1,10 @@
-# Local AI Agent Deployment
+# Local AI Deployment
 
 This project demonstrates how to install and run your own local AI agent directly on your computer, ensuring full data privacy, speed, and control over your environment.
 
 ---
 
-## Why Deploy a Local AI Agent?
+## Why Deploy a Local AI?
 
 - **Full ownership of data**
 - **Zero dependency on cloud services**
@@ -135,7 +135,6 @@ To upload your notes files, you need to create a knowledge (it's kind of the Doc
 
 - 🖥️ **Fully Local Operation**: No external API calls.
 - 🔒 **Enhanced Privacy**: Data remains on your machine.
-- 🚀 **Low Latency**: Immediate responses without network delays.
 - 🛠️ **Customizable Models**: Switch models according to needs.
 - 🌐 **Browser-Based UI**: User-friendly experience with Open WebUI.
 
