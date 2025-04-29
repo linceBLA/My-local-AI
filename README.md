@@ -154,7 +154,7 @@ To upload your notes files, you need to create a knowledge (it's kind of the Doc
 I am an Ethical Hacker and AI Trainer specializing in cybersecurity, privacy-first solutions, and AI-driven workflows.  
 My work focuses on building efficient, secure, and practical systems.
 
-
+📎 **Ref**: [open-webui GitHub Repository](https://github.com/open-webui/open-webui)
 
 
 
